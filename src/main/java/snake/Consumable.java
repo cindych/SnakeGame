@@ -10,7 +10,6 @@ public abstract class Consumable {
 
     // final variables
     static final Color SNAKE = Color.GREEN;
-    private static final Color BACKGROUND = Color.LIGHT_GRAY;
     private static final Color APPLE = Color.RED;
     private static final Color PEACH = Color.PINK;
     private static final Color LEMON = Color.YELLOW;
