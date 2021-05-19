@@ -2,9 +2,6 @@ package snake;
 
 import org.junit.jupiter.api.*;
 
-import snake.Board;
-import snake.Snake;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.awt.Color;
